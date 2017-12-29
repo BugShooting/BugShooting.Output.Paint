@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace BS.Output.Paint
+namespace BugShooting.Output.Paint
 {
   partial class Send : Window
   {

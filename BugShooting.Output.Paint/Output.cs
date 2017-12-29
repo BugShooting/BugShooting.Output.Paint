@@ -1,4 +1,6 @@
-﻿namespace BS.Output.Paint
+﻿using BS.Plugin.V3.Output;
+
+namespace BugShooting.Output.Paint
 {
 
   public class Output: IOutput 

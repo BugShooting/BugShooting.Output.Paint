@@ -5,7 +5,7 @@ using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Media;
 
-namespace BS.Output.Paint
+namespace BugShooting.Output.Paint
 {
   class Validation
   {
